@@ -3067,7 +3067,7 @@ end
 
 local library = {}
 
-_G.Color = Color3.fromRGB(154, 240, 17) 
+_G.Color = Color3.fromRGB(3, 36, 252) 
 _G.imageLogo = "rbxassetid://12940626152"
 _G.Logo = "rbxassetid://12940626152"
 _G.NameHub = "Made By Dragon Toro" -- ชื่อ Hub
