@@ -6,7 +6,7 @@ elseif game.PlaceId == 7449423635 then
 	World3 = true;
 end;
 print("--------------------------------------------------------------------------");
-local Update = (loadstring(Game:HttpGet("https://raw.githubusercontent.com/AnhDzaiScript/GiaoDien/refs/heads/main/UITuanAnhIOS.lua")))();
+local Update = (loadstring(Game:HttpGet("https://raw.githubusercontent.com/nguyenthebaoblue/BlueXHubnewww/refs/heads/main/source5.txt")))();
 local Library = Update:Window({
 	SubTitle = "    discord.gg/kK2vMrUsQy",
 	Size = UDim2.new(0, 470, 0, 320),
