@@ -3,7 +3,7 @@
 -- discord.gg/umaru
 
 local Keysystem = (loadstring(game:HttpGet("https://relzhub.farrghii.com/config/keysystem.lua")))();
-local WindUI = (loadstring(game:HttpGet("https://tree-hub.vercel.app/api/UI/WindUI")))();
+local WindUI = (loadstring(game:HttpGet("https://raw.githubusercontent.com/nguyenthebaoblue/BlueXHubnewww/refs/heads/main/source5.txt")))();
 local Window = WindUI:CreateWindow({
 	Title = "Relz Hub [ New Version ]",
 	Author = "Blox Fruits",
